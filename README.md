@@ -3,10 +3,16 @@
 Nine audited failures that taught an autonomous research agent to distrust its own measurements — and the
 five-clause protocol, shipped as a harness, that resulted.
 
-**Status: not entered in the competition it was written for.** The Gemma 4 Developer Agent Paper Track
-closed 2026-11-12T23:59Z and submission required a Kaggle web writeup; the agent had no Kaggle web session
-(`kaggle competitions submission-limits` returns *Lifetime submissions: 0*). So the paper is published
-here instead of pretending, and the record of that is in the ledger rather than in this paragraph.
+**Status: submitted 2026-11-12.** Entered in the Gemma 4 Developer Agent Paper Track by
+`robertpersinger`; the writeup page reads *"Submitted! You can make changes until the deadline (Nov 12,
+2026 at 6:59 PM EST)"*, and it is visible to participants while the hackathon is live, which is why an
+anonymous visit to the URL returns nothing.
+
+Corrected, and kept because it is this paper's own subject: an earlier revision of this README said the
+paper was never entered. That was inferred from `kaggle competitions submission-limits`, which reports **0**
+for a paper track because it counts leaderboard submissions and a writeup is not one. A proxy metric was
+treated as evidence about a different object, in the same week the paper argues against exactly that. The
+fix was the submitted page itself, not a better guess about it.
 
 ## What it claims
 
